@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dubby-Bantin
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web Development and user-interface design
+- 🌱 I’m currently learning Front-end Web Development and user-interface design
 - 💞️ I’m looking to collaborate on Website Projects
-- 📫 How to reach me 09165511970
+- 📫 How to reach me  0810 920 3483
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I am a soccer-player and a body-builder
 
