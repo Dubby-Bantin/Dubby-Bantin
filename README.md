@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dubby-Bantin
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Front-end Web Development and user-interface design
+- 🌱 I’m currently learning Front-end Web Development, user-interface design, backend webdev, and databases
 - 💞️ I’m looking to collaborate on Website Projects
 - 📫 How to reach me  0810 920 3483
 - 😄 Pronouns: ...
