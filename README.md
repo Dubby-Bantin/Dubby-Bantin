@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Dubby-Bantin
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Front-end Web Development, user-interface design, backend webdev, and databases
+- 🌱 I’m currently A Front-end Web Developmer based in Geeogia
 - 💞️ I’m looking to collaborate on Website Projects
-- 📫 How to reach me  0810 920 3483
-- 😄 Pronouns: ...
+- 📫 How to reach me  +1 404 839 4533
+- 😄 Pronouns: HE | HIM
 - ⚡ Fun fact: ... I am a soccer-player and a body-builder
 
 <!---
